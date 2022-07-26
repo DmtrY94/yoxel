@@ -9,19 +9,14 @@ url = "#pricing"
 weight = 1
 
 [[menu.main]]
-name = "Docs"
-url = "#docs"
+name = "Contact Us"
+url = "#contact"
 weight = 2
 
 [[menu.main]]
-name = "Pricing"
-url = "#pricing"
+name = "Docs"
+url = "#docs"
 weight = 3
-
-[[menu.main]]
-name = "Contact Us"
-url = "#contact"
-weight = 4
 
 [[menu.sitemap]]
 name = "Home"
@@ -44,7 +39,7 @@ url = "/contact"
 weight = 4
 
 [params]
-logo = "images/header/logo-part1.svg"
+logo = "images/header/yoxel.svg"
 formspreeURL = "https://formspree.io/mjvankow"
 googleAnalytics = "UA-175025671-2"
 footerTitle = "Get the latest app updates"
