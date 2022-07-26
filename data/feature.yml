@@ -1,0 +1,19 @@
+---
+enable: true
+title: Power up your apps with add-ons
+lilist1: Let your users access all the information they need in the apps they live in.
+lilist2: Increase user productivity by avoiding having to switch between apps.
+lilist3: Accelerate user adoption by creating a connected digital experience across web and mobile.
+Title2nd: Aurinko Unified API Benefits
+image1: images/feature/feature_1.png
+image2: images/feature/feature_3.png
+checkItem:
+  - text: Write once, launch many mailbox integrations with Aurinko’s unified API.
+  - text: Integrate emails, calendars and contacts quickly, easily and cost effectively.
+  - text: Focus on your core products and let us maintain the provider APIs.
+Title3nd: Powerful pre-built sync logic
+checkItem3:
+  - text: Activate pre‑built sync logic to automatically capture calendar, email, contacts and activity data.
+  - text: Improve data accuracy by automating data capture in a structured way.
+  - text: Eliminate data silos across your apps and inbox platforms.
+image3: images/feature/feature_2.png

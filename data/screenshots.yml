@@ -1,0 +1,23 @@
+---
+enable: true
+title: Aurinko API benefits
+
+images:
+  - url: images/screenshots/benefit_1.svg
+    titleSlider: USER MANAGEMENT
+    descriptionSlider: Enable user sessions based on 3rd party authentication, open IDs and ID tokens. Keep user or organization level configurations in a key/value store.
+  - url: images/screenshots/benefit_2.svg
+    titleSlider: API INTEGRATIONS
+    descriptionSlider: Authorize standardized access to external APIs and proxy API requests.
+  - url: images/screenshots/benefit_3.svg
+    titleSlider: CONVENIENCE ADD-ON API
+    descriptionSlider: Combine external APIs to expose an API that is easy to use for your add-on.
+  - url: images/screenshots/benefit_4.svg
+    titleSlider: WEBHOOKS
+    descriptionSlider: Subscribe to external API or internal store notifications when building event-driven apps.
+  - url: images/screenshots/benefit_5.svg
+    titleSlider: DEVELOPER PORTAL
+    descriptionSlider: Monitor your app status and manage user access from Aurinko portal.
+  - url: images/screenshots/benefit_6.svg
+    titleSlider: FRICTIONLESS SECURITY
+    descriptionSlider: Protect your valuable data with Aurinko’s pass-through API. We do not store your users’ data on our servers and have built-in OAuth2.

@@ -1,3 +1,63 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://stellular-axolotl-9c709c.netlify.app/"
+languageCode = "en-us"
+title = "Yoxel | Inbox integrations for Salesforce - Calendar, Email, Contacts & Tasks"
+theme = "apsho-my"
+
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 1
+
+[[menu.main]]
+name = "Docs"
+url = "#docs"
+weight = 2
+
+[[menu.main]]
+name = "Pricing"
+url = "#pricing"
+weight = 3
+
+[[menu.main]]
+name = "Contact Us"
+url = "#contact"
+weight = 4
+
+[[menu.sitemap]]
+name = "Home"
+url = "#"
+weight = 1
+
+[[menu.sitemap]]
+name = "Latest Article"
+url = "/blog"
+weight = 2
+
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "/privacy"
+weight = 3
+
+[[menu.sitemap]]
+name = "Contact"
+url = "/contact"
+weight = 4
+
+[params]
+logo = "images/header/logo-part1.svg"
+formspreeURL = "https://formspree.io/mjvankow"
+googleAnalytics = "UA-175025671-2"
+footerTitle = "Get the latest app updates"
+copyright1 = "All right reserved"
+copyright2 = "Copyright © Apsho 2020"
+email = "help@staticmania.com"
+
+  [params.address]
+  address = "23 Khan Niketon, Grand Street, NYK."
+  email = "apsho@example.com"
+  phone = "+(448) 833 5272 332"
+
+  [params.social]
+  facebook = "https://www.facebook.com/pg/staticmania"
+  twitter = "https://twitter.com/static_mania"
+  github = "https://github.com/StaticMania"

@@ -1,0 +1,29 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Partner with us to quickly launch add-ons for
+services:
+  - image: images/company/outlook.svg
+    title: Outlook
+   
+  - image: images/company/office.svg
+    title: Office 365
+
+  - image: images/company/google.svg
+    title: Google
+
+  - image: images/company/exchange.svg
+    title: MS Exchange
+
+  - image: images/company/teams.svg
+    title: MS Teams
+  
+  - image: images/company/slack.svg
+    title: Slack
+
+  - image: images/company/salesforce.svg
+    title: Salesforce
+  
+  - image: images/company/others.svg
+    title: Many Others
+  
