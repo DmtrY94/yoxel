@@ -4,8 +4,8 @@ title = "Yoxel | Inbox integrations for Salesforce - Calendar, Email, Contacts &
 theme = "apsho-my"
 
 [[menu.main]]
-name = "About"
-url = "#about"
+name = "Pricing"
+url = "#pricing"
 weight = 1
 
 [[menu.main]]
