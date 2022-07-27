@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap');
+
+body {
+  font-family: $primary-font;
+  font-size: 16px;
+  color: $text-color;
+  background: $body-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $text-color-dark;
+  font-family: $primary-font;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+p {
+  font-size: 16px;
+  color: $text-color;
+  line-height: 26px;
+}
+
+h1 {
+  font-size: 44px;
+  line-height: 120%;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 120%;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+.section-description {
+  font-size: 24px;
+  line-height: 150%;
+}

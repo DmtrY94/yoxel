@@ -1,6 +1,10 @@
 .service {
-  padding: 100px 0 80px;
+  padding: 140px 0 160px;
   background: $secondary-color;
+  overflow: hidden;
+  background: url(../images/sync/yoxel_sync_bg.svg);
+  background-position: 50% 0;
+  background-size: cover;
 
   @include mobile-xs {
     padding-bottom: 0;
@@ -10,15 +14,11 @@
     margin-right: auto;
     margin-left: auto;
     text-align: center;
-    font-size: 36px;
-    line-height: 120%;
   }
   .section-description {
     max-width: 800px;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
-    font-size: 24px;
-    line-height: 150%;
   }
 }

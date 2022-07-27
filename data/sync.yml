@@ -1,6 +1,16 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: test
-description: test
+title: Smart Salesforce sync — automatic
+titlePath: and bi-directional
+description: Improve data accuracy with Yoxel’s bi-directional sync that automatically integrates calendar events, contacts, emails and tasks between Salesforce and Office 365, MS Exchange, Outlook.com and/or Google.
+sync:
+  - title: 100% native Salesforce app — manage your automatic sync configurations right from Salesforce.
+  - title: Full de-duplication. Create new CRM records from emails and meetings.
+  - title: Simplify sync deployment to large teams using templates. Yoxel templates allows precise team setup.
+  - title: Great for sales as well as service teams. Works for communities users.
+  - title: Auto-match to CRM records. Auto convert leads to contacts when calendar invite is scheduled.
+  - title: Data always stays safe and secure in Salesforce. The sync is deployed in Heroku (Salesforce cloud solution)
+
+    
   

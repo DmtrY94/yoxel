@@ -1,4 +1,48 @@
 .sync {
     background: #fff;
     padding: 50px 0 70px;
+    .section-title {
+        padding-top: 80px;
+        span {
+            display: block;
+        }
+    }
+    .section-description {
+        max-width: 810px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .section-list {
+        display: -ms-flexbox;
+        display: flex;
+        flex-direction: row;
+        margin: 64px -15px;
+        padding: 0;
+        text-align: left;
+        -ms-flex-direction: row;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        &__item {
+            position: relative;
+            width: calc(50% - 110px);
+            margin: 0 55px 14px;
+            text-align: left;
+            list-style: none;
+            font-size: 20px;
+            line-height: 120%;
+            &::before {
+                position: absolute;
+                content: "";
+                display: block;
+                top: 5px;
+                left: -39px;
+                width: 24px;
+                height: 20px;
+                border-radius: 0;
+                background-color: transparent;
+                background-image: url(../images/sync/icon-checked-color.svg);
+                background-repeat: no-repeat;
+            }
+        }
+    }
 }
