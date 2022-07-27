@@ -1,19 +1,31 @@
 ---
 enable: true
 title: Calendar sync
-lilist1: Integrate Salesforce and Office 365, MS Exchange, Outlook.com and/or Google calendar events.
-lilist2: Increase user productivity by avoiding having to switch between apps.
-lilist3: Accelerate user adoption by creating a connected digital experience across web and mobile.
-Title2nd: Aurinko Unified API Benefits
 image1: images/feature/calendar-sync.svg
-image2: images/feature/feature_3.png
-checkItem:
-  - text: Write once, launch many mailbox integrations with Aurinko’s unified API.
-  - text: Integrate emails, calendars and contacts quickly, easily and cost effectively.
-  - text: Focus on your core products and let us maintain the provider APIs.
-Title3nd: Powerful pre-built sync logic
+checkItem1:
+  - text: Integrate Salesforce and Office 365, MS Exchange, Outlook.com and/or Google calendar events.
+  - text: See calendar events in Salesforce based on attendee list.
+  - text: Yoxel’s advanced bi-directional calendar syncing supports «true» recurring event and meeting syncing.
+  - text: Meetings can get associated with the right CRM records (leads, contacts, opportunities) automatically.
+  - text: The sync allows users to update series in Outlook and Salesforce.
+  - text: Yoxel detects and de-duplicates calendar events for you. Nothing gets deleted — ever. No clutter, no confusion!
+Title2nd: Email sync
+image2: images/feature/email-sync.svg
+checkItem2:
+  - text: Yoxel automatically logs Office 365, MS Exchange, Outlook.com and Gmail emails to related Salesforce leads, contacts, opportunities and accounts. No need to drag emails to folders or flag them.
+  - text: Yoxel automatically logs emails based on rules.
+  - text: Yoxel automatically scans user mailboxes to discover and keep track of ongoing conversations with clients.
+  - text: All logged emails are organized by their original email threads under the ‘Conversations’ tab in Salesforce.
+  - text: Simple and easy email sync logic based on rules that you set.
+  - text: Yoxel supports attachments and Bcc fields.
+Title3nd: Contact sync
+image3: images/feature/contact-sync.svg
 checkItem3:
-  - text: Activate pre‑built sync logic to automatically capture calendar, email, contacts and activity data.
-  - text: Improve data accuracy by automating data capture in a structured way.
-  - text: Eliminate data silos across your apps and inbox platforms.
-image3: images/feature/feature_2.png
+  - text: Yoxel’s contact sync can sync leads and/or contacts.
+  - text: It runs similarity analysis in every sync cycle to prevent creation of duplicate records.
+  - text: The sync is customizable and can sync additional email/phone/address fields, map to non-standard Salesforce fields, set default field values automatically and sync tags.
+Title4nd: Task sync
+image4: images/feature/task-sync.svg
+checkItem4:
+  - text: Yoxel’s cloud-based Salesforce tasks solution that automatically syncs with Office 365, MS Exchange, Outlook.com and Google so you’re always up to the task.
+  - text: Sync tasks bi-directionally across all devices.
